@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amol Mahor</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Hi 👋, I'm Amol Mahor</h3>
+<h5 align="center">A passionate frontend developer from India.</h5>
 <img align='center' alt='Coding' width='100%'  src='https://media.graphassets.com/E6Mynw5iSWmqwk09Q1o4' />
 
 <p align="left"> <a href="https://twitter.com/amolmahor50@" target="blank"><img src="https://img.shields.io/twitter/follow/amolmahor50@?logo=twitter&style=for-the-badge" alt="amolmahor50@" /></a> </p>
