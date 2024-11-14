@@ -1,40 +1,67 @@
-<h3 align="center">Hi 👋, I'm Amol Mahor</h3>
-<h5 align="center">A passionate frontend developer from India.</h5>
-<img align='center' alt='Coding' width='100%'  src='https://media.graphassets.com/E6Mynw5iSWmqwk09Q1o4' />
+# 🚀 Front-End Developer for Hire 🚀
 
-<p align="left"> <a href="https://twitter.com/amolmahor50@" target="blank"><img src="https://img.shields.io/twitter/follow/amolmahor50@?logo=twitter&style=for-the-badge" alt="amolmahor50@" /></a> </p>
+Hello !! I am a dedicated Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
 
-- 🔭 I’m currently working on **Whatapps Clone**
+## ⚡️ Skills
 
-- 🌱 I’m currently learning **Node js, PHP, Django**
+Here are some of the key technologies and tools I work with:
 
-- 👯 I’m looking to collaborate on **Node js, PHP, Django**
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-- 🤝 I’m looking for help with **YouTube Channel**
+### Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-61DAFB?style=for-the-badge&logo=jQuery&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/-bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [https://amolmahor50.github.io/Portfolio](https://amolmahor50.github.io/Portfolio)
+### Back-End
+![JAVA](https://img.shields.io/badge/-JAVA-339933?style=for-the-badge&logo=JAVA&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-- 📝 I regularly write articles on [Environment](Environment)
+### Databases
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-- 💬 Ask me about **react js**
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-- 📫 How to reach me **amolmahor50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a9suyGKeFhMhSwxlj5zC9axe5bxcZ41m/view?usp=drive_link](https://drive.google.com/file/d/1a9suyGKeFhMhSwxlj5zC9axe5bxcZ41m/view?usp=drive_link)
+## 🌟 About Me
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/amolmahor50@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amolmahor50@" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amol-mahor-a57a87202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amol-mahor-a57a87202" height="30" width="40" /></a>
-<a href="https://fb.com/amolmahor50@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amolmahor50@" height="30" width="40" /></a>
-<a href="https://instagram.com/_aesthetic.amol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aesthetic.amol" height="30" width="40" /></a>
-</p>
+Hello! I'm Amol, a Front-End Developer with extensive experience in building and maintaining web applications. My expertise in the frontend ReactJs enables me to handle every aspect of the web development process, from designing the user interface to managing server-side operations.
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 💼 Services Offered
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amolmahor50&show_icons=true&locale=en&layout=compact" alt="amolmahor50" /></p>
+I offer a comprehensive range of web development services:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amolmahor50&show_icons=true&locale=en" alt="amolmahor50" /></p>
+### Front-End Development
+- 🎨 HTML5
+- 🎨 CSS3
+- 🎨 JavaScript (ES6+)
+- 🎨 React.js
+- 🎨 Redux
+- 🎨 jQuery
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amolmahor50&" alt="amolmahor50" /></p>
+### Back-End Development
+- ⚙️Java
+- ⚙️ RESTful API Development
+
+### Database Management
+- 📊 SQL
+
+## 📂 Portfolio
+
+(https://amolmahor50.github.io/Portfolio)
+
+I've had the opportunity to work with clients from various industries, delivering tailored web solutions. Here are some highlights of my work in GitHub account.
+
+
+## 🌐 Let's Connect
+
+I'm always excited to take on new challenges and collaborate with others. Feel free to reach out if you have any project ideas or if you want to discuss potential opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amol-mahor-a57a87202/)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:amolmahor50@gmail.com) <!-- Replace with your email address -->
+
